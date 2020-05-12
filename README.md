@@ -2,12 +2,9 @@
 Esta es una tarea de Laboratorio de Métodos Computacionales
 
 # Sobre el autor
-Felipe Gómez es profesor de Laboratorio de Métodos Computacionales y este repositorio es la tarea de GIT.
-* Viñeta
-* Villeta
-* Villita
+Camilo Ruiz es estudiante de De fisica he ingenieria mecanica de la universidad de los andes y este repositorio es la tarea del laboratoyio de metodos computacionales de GIT.
 
-Esto está escrito en MARKDOWN
+Imagen que muestra una foto del cielo con un tiempo de exposicion de mas de 30 minutos
 =============================
 
-![Villa de Leyva, Boyacá](https://upload.wikimedia.org/wikipedia/commons/6/66/Villadeleyva04.jpg)
+![Estrellas, Noche](https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/08/lluvia-estrellas.jpg)
